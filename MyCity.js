@@ -7,3 +7,4 @@ function sayHello(name, city, state) {
 }
 
 console.log(sayHello(["kalisa", "yvan"], "MUSANZE", "KINIGI"));
+//feature change for sureee
